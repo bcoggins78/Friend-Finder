@@ -1,258 +1,258 @@
 var friendsArray = [
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        "name": "Bryant Coggins",
+        "photo": "https://bcoggins78.github.io/New-Portfolio/assets/media/bryant.png",
         "scores": [
             "5",
-            "1",
             "4",
-            "4",
-            "5",
-            "1",
-            "2",
-            "5",
-            "4",
-            "1"
-        ]
-    },
-    {
-        "name": "Jacob Deming",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
-        "scores": [
-            "4",
-            "2",
-            "5",
             "1",
             "3",
-            "2",
-            "2",
             "1",
+            "2",
+            "4",
+            "2",
             "3",
             "2"
         ]
     },
     {
-        "name": "Jeremiah Scanlon",
-        "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        "name": "Jack O'Neill",
+        "photo": "https://www.gateworld.net/wiki/images/8/8c/Oneilljack.jpg",
         "scores": [
-            "5",
-            "2",
-            "2",
             "2",
             "4",
-            "1",
-            "3",
-            "2",
             "5",
-            "5"
-        ]
-    },
-    {
-        "name": "Louis T. Delia",
-        "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
-        "scores": [
-            "3",
-            "3",
             "4",
-            "2",
-            "2",
-            "1",
+            "4",
             "3",
-            "2",
+            "3",
+            "5",
             "2",
             "3"
         ]
     },
     {
-        "name": "Lou Ritter",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        "name": "Roy Trenneman",
+        "photo": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-the-it-crowd-chris-odowd.jpg",
         "scores": [
             "4",
             "3",
-            "4",
-            "1",
-            "5",
             "2",
-            "5",
             "3",
-            "1",
+            "2",
+            "3",
+            "3",
+            "4",
+            "2",
             "4"
         ]
     },
     {
-        "name": "Jordan Biason",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
-        "scores": [
-            "4",
-            "4",
-            "2",
-            "3",
-            "2",
-            "2",
-            "3",
-            "2",
-            "4",
-            "5"
-        ]
-    },
-    {
-        "name": "Kane",
-        "photo": "Test",
-        "scores": [
-            "2",
-            "2",
-            "3",
-            "4",
-            "2",
-            "4",
-            "3",
-            "2",
-            "3",
-            "3"
-        ]
-    },
-    {
-        "name": "Batman",
-        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/batman-begins-christian-bale-1554115577.jpg?crop=0.563xw:1.00xh;0.122xw,0&resize=3384:*",
+        "name": "Castiel",
+        "photo": "http://2.bp.blogspot.com/-uw6yVofS9dA/UyrIyruV1bI/AAAAAAAAEGE/VaOlRdBLA8w/s1600/castiel+1.JPG",
         "scores": [
             "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1"
-        ]
-    },
-    {
-        "name": "1",
-        "photo": "1",
-        "scores": [
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1"
-        ]
-    },
-    {
-        "name": "test",
-        "photo": "test",
-        "scores": [
-            "2",
-            "1",
-            "1",
-            "2",
-            "1",
+            "5",
+            "4",
+            "4",
+            "4",
             "3",
-            "1",
-            "2",
-            "2",
+            "4",
+            "4",
+            "3",
             "2"
         ]
     },
     {
-        "name": "kira",
-        "photo": "akwlef",
+        "name": "Crowley",
+        "photo": "https://pmctvline2.files.wordpress.com/2017/05/supernatural-mark-sheppard1.jpg",
+        "scores": [
+            "5",
+            "4",
+            "4",
+            "4",
+            "3",
+            "5",
+            "5",
+            "3",
+            "1",
+            "4"
+        ]
+    },
+    {
+        "name": "The Doctor",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/2/21/Tenth_Doctor_%28Doctor_Who%29.jpg",
+        "scores": [
+            "5",
+            "3",
+            "5",
+            "1",
+            "3",
+            "2",
+            "3",
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "name": "Tony Soprano",
+        "photo": "https://amp.businessinsider.com/images/51c2d8eeecad04f97c000030-320-240.jpg",
         "scores": [
             "3",
+            "4",
+            "2",
+            "3",
+            "1",
+            "2",
+            "4",
+            "3",
+            "2",
+            "4"
+        ]
+    },
+    {
+        "name": "Ash Williams",
+        "photo": "https://static.tvtropes.org/pmwiki/pub/images/williams_ashley_j.jpg",
+        "scores": [
+            "2",
+            "4",
+            "4",
+            "4",
+            "3",
             "2",
             "3",
             "4",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "name": "Dexter Morgan",
+        "photo": "https://c-8oqtgrjgwu46x24koikzx2etcpmgtx2eeqo.g00.ranker.com/g00/3_c-8yyy.tcpmgt.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2fkoikz.tcpmgt.eqox2fwugt_pqfg_koix2f65x2f072277x2fqtkikpcnx2ffgzvgt-oqticp-vx78-ejctcevgtu-rjqvq-w32x3fyx3d402x26jx3d402x26hkvx3detqrx26etqrx3dhcegux26sx3d72x26hox3drlrix26k32e.octmx3dkocig_$/$/$/$/$/$",
+        "scores": [
+            "3",
+            "4",
+            "4",
+            "3",
+            "4",
+            "5",
+            "5",
             "4",
             "2",
+            "1"
+        ]
+    },
+    {
+        "name": "Walter White",
+        "photo": "https://cdn3.movieweb.com/i/article/0TvMcG4es3dx98j6ltEqJaCVeo94ni/738:50/Breaking-Bad-Movie-Bryan-Cranston-Responds.jpg",
+        "scores": [
+            "4",
+            "3",
             "4",
             "2",
+            "3",
+            "3",
+            "4",
+            "3",
             "3",
             "3"
         ]
     },
     {
-        "name": "john",
-        "photo": "https://i.pinimg.com/originals/16/39/c8/1639c8e34dbd74c1b25148adcb9acae3.jpg",
+        "name": "Jon Snow",
+        "photo": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d3/JonSnowSeason8HB.jpg/revision/latest/scale-to-width-down/333?cb=20190401173347",
         "scores": [
-            "5",
-            "5",
-            "3",
-            "1",
-            "3",
-            "1",
-            "4",
             "2",
-            "1",
+            "4",
+            "4",
+            "4",
+            "3",
+            "2",
+            "4",
+            "3",
+            "3",
             "4"
         ]
     },
     {
-        "name": "test",
-        "photo": "test",
+        "name": "Dave Lister",
+        "photo": "http://i.imgur.com/dVcIFen.jpg",
         "scores": [
-            "2",
-            "1",
-            "2",
+            "4",
             "2",
             "3",
-            "2",
-            "3",
-            "2",
-            "2",
-            "1"
-        ]
-    },
-    {
-        "name": "ben",
-        "photo": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiFh-7q9v3hAhUKUt8KHbQ6BiAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fflower%2F&psig=AOvVaw3qUxr3_eEPMM1-zzmjAUh7&ust=1556923682440747",
-        "scores": [
-            "2",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1"
-        ]
-    },
-    {
-        "name": "Joe Bob",
-        "photo": "https://www.a-photo.com",
-        "scores": [
             "3",
             "4",
-            "5",
-            "1",
-            "4",
             "2",
-            "4",
-            "2",
-            "4",
-            "1"
-        ]
-    },
-    {
-        "name": "Nammo",
-        "photo": "https://images-na.ssl-images-amazon.com/images/I/91c5vXSKGOL.png",
-        "scores": [
-            "5",
-            "3",
             "2",
             "2",
             "4",
-            "1",
-            "4",
-            "1",
-            "3",
             "4"
+        ]
+    },
+    {
+        "name": "Michael Scarn",
+        "photo": "https://vignette.wikia.nocookie.net/banthapedia/images/3/33/Scarn.jpg/revision/latest/scale-to-width-down/180?cb=20091021140521",
+        "scores": [
+            "4",
+            "2",
+            "3",
+            "2",
+            "2",
+            "1",
+            "4",
+            "2",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "name": "Peter Venkman",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/5/51/Peter_GB1.jpg",
+        "scores": [
+            "3",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "3",
+            "4",
+            "2",
+            "4"
+        ]
+    },
+    {
+        "name": "Jean Luc Picard",
+        "photo": "https://vignette.wikia.nocookie.net/memoryalpha/images/b/bf/Jean-Luc_Picard%2C_2379.jpg/revision/latest/scale-to-width-down/350?cb=20180924193040&path-prefix=en",
+        "scores": [
+            "4",
+            "4",
+            "4",
+            "2",
+            "4",
+            "2",
+            "3",
+            "2",
+            "4",
+            "4"
+        ]
+    },
+    {
+        "name": "Johnny Lawrence",
+        "photo": "https://vignette.wikia.nocookie.net/thekaratekid/images/b/bc/Johnny_lawrence_2018.jpg/revision/latest/scale-to-width-down/310?cb=20180512085837",
+        "scores": [
+            "2",
+            "4",
+            "3",
+            "4",
+            "2",
+            "3",
+            "3",
+            "4",
+            "1",
+            "3"
         ]
     },
     
