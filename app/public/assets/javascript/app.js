@@ -47,6 +47,7 @@ $(document).ready(function () {
             // Create an object for the user"s data
             var userData = {
                 name: $("#name").val(),
+                profession: $("#profession").val(),
                 photo: $("#photo").val(),
                 scores: [
                     $("#q1").val(),
@@ -67,6 +68,7 @@ $(document).ready(function () {
 
                 // Grab the result from the AJAX post so that the best match's name and photo are displayed.
                 $("#match-name").text(data.name);
+                $("#match-profession").text(data.profession);
                 $("#match-img").attr("src", data.photo);
 
                 // Show the modal with the best match
