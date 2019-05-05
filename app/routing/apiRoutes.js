@@ -44,7 +44,7 @@ module.exports = function(app) {
 
     res.json({status: 'OK', name: matchName, photo: matchPhoto});
 
-    // friends.push(newFriend);
+    friends.push(newFriend);
     
   });
   
