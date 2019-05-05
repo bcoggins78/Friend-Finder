@@ -1,0 +1,40 @@
+body {
+
+    background-color: rgb(10, 10, 78);
+    color: white;
+
+}
+
+.image-div {
+    
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#member-header {
+
+    text-align: center;
+
+}
+
+.photo {
+
+    border-radius: 5px;
+    border: 3px solid white;
+
+}
+
+.name {
+
+    margin-top: 5px;
+    font-size: 18px;
+
+}
+
+.modal-content {
+
+    color: black;
+
+}
+
