@@ -15,6 +15,7 @@ module.exports = function(app) {
 
     var userScore = newFriend.scores;
     var matchName;
+    var matchProf;
     var matchPhoto;
     var totalDiff = 100;
 
@@ -32,6 +33,7 @@ module.exports = function(app) {
 
         totalDiff = difference;
         matchName = friends[i].name;
+        matchProf = friends[i].profession;
         matchPhoto = friends[i].photo;
 
       }
@@ -39,10 +41,11 @@ module.exports = function(app) {
 
     console.log("Total Difference: " + totalDiff);
     console.log("Best Match Name: " + matchName);
+    console.log("Best Match Profession: " + matchProf);
     console.log("Best Match Photo: " + matchPhoto);
     
 
-    res.json({status: 'OK', name: matchName, photo: matchPhoto});
+    res.json({status: 'OK', name: matchName, profession: matchProf, photo: matchPhoto});
 
     friends.push(newFriend);
     
