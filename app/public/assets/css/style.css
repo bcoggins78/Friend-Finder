@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+/* font-family: 'PT Sans Narrow', sans-serif; */
+
 body {
 
     background-color: rgb(10, 10, 78);
@@ -38,3 +41,108 @@ body {
 
 }
 
+.jumbotron {
+
+    color: darkblue;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+
+
+nav {
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: rgb(52, 52, 226);
+    top: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+
+}
+
+.logo {
+    
+    color: rgb(223, 223, 223);
+    letter-spacing: 7px;
+    font-size: 30px;
+    margin-left: 50px;
+        
+}
+
+#main-logo {
+
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: 15px;
+    text-align: center;
+
+
+}
+
+.facebook-head {
+
+    font-size: 80px;
+
+}
+
+.nav-links {
+
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-bottom: 0%;
+    font-size: 18px;
+
+}
+
+.nav-links a {
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+    letter-spacing: 3px;
+    
+}
+
+.nav-links li {
+    list-style: none;
+}
+
+.nav-links > li > a:hover {
+    color: white;
+}
+
+#active {
+    color:white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.facebook-style {
+
+    font-size: 40px;
+
+}
+
+.footer {
+
+    text-align: center;
+
+}
+
+.footer a{
+
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+    letter-spacing: 3px;
+    
+}
+
+.footer a:hover {
+
+    color: white;
+    
+}
