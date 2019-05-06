@@ -12,7 +12,7 @@
   <script src="/assets/javascript/app.js"></script>
   <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
 
-  
+
   <!-- Chosen -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.5.1/chosen.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.5.1/chosen.jquery.min.js"></script>
@@ -20,6 +20,29 @@
 </head>
 
 <body>
+
+  <nav>
+    <div class="logo">
+      <b class="facebook-style">f</b>riend <b class="facebook-style">f</b>inder
+    </div>
+    <ul class="nav-links">
+      <li>
+        <a href="/">Home</a>
+      </li>
+      <li>
+        <a href="/survey" id="active">Survey</a>
+      </li>
+      <li>
+        <a href="/friends">Friends</a>
+      </li>
+      <li>
+        <a href="/api/friends" target="_blank">API Friends List</a>
+      </li>
+      <li>
+        <a href="https://github.com/bcoggins78/Friend-Finder" target="_blank">GitHub Repo</a>
+      </li>
+    </ul>
+  </nav>
 
   <div class="container">
 
@@ -132,7 +155,8 @@
     </select>
 
     <h3><strong>Question 9</strong></h3>
-    <h4>You think that everyone’s views should be respected regardless of whether they are supported by facts or not.</h4>
+    <h4>You think that everyone’s views should be respected regardless of whether they are supported by facts or not.
+    </h4>
     <select class="chosen-select" id="q9">
       <option value=""></option>
       <option value="1">1 (Strongly Disagree)</option>
@@ -157,14 +181,15 @@
     <br>
 
     <!-- Submit Button -->
-    <button type="submit" class="btn btn-primary btn-lg btn-block" id="submit"><i class="fa fa-check-circle" aria-hidden="true"></i>
-     Submit</button>
+    <button type="submit" class="btn btn-primary btn-lg btn-block" id="submit"><i class="fa fa-check-circle"
+        aria-hidden="true"></i>
+      Submit</button>
 
     <hr>
     <footer class="footer">
-      <div class="container">
-        <p><a href="/api/friends">API Friends List</a> | <a href="https://github.com/bcoggins78/Friend-Finder" target="_blank">GitHub Repo</a></p>
-      </div>
+        <div class="container">
+            <p><a href="#top">^ Back to Top ^</a> </p>
+        </div>
     </footer>
 
   </div>
@@ -192,7 +217,7 @@
     </div>
   </div>
 
-  
+
 
 </body>
 
