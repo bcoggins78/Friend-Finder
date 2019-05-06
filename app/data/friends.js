@@ -224,7 +224,7 @@ var friendsArray = [
     {
         "name": "Jean Luc Picard",
         "photo": "https://vignette.wikia.nocookie.net/memoryalpha/images/b/bf/Jean-Luc_Picard%2C_2379.jpg/revision/latest/scale-to-width-down/350?cb=20180924193040&path-prefix=en",
-        "profession": "Commanding officer of the USS Enterprise-E",
+        "profession": "Commanding Officer of the USS Enterprise-E",
         "scores": [
             "4",
             "4",
