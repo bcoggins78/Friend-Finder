@@ -49,4 +49,4 @@ The API Friends List link will show the friends list in json format.  Recommend 
     - server.js
   ```
 
-  ![screenshot](/media/screenshot.jpg)
+  ![screenshot](/app/public/assets/media/screenshot.jpg)
