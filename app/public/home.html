@@ -11,35 +11,52 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
     <!-- Font Awesome Glyphicons -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
 
 </head>
 
 <body>
 
+    <nav>
+        <div class="logo">
+            <b class="facebook-style">f</b>riend <b class="facebook-style">f</b>inder
+        </div>
+        <ul class="nav-links">
+            <li>
+                <a href="/" id="active">Home</a>
+            </li>
+            <li>
+                <a href="/survey">Survey</a>
+            </li>
+            <li>
+                <a href="/friends">Friends</a>
+            </li>
+            <li>
+                <a href="/api/friends" target="_blank">API Friends List</a>
+            </li>
+            <li>
+                <a href="https://github.com/bcoggins78/Friend-Finder" target="_blank">GitHub Repo</a>
+            </li>
+        </ul>
+    </nav>
+
     <div class="container">
 
         <div class="jumbotron">
-            <h1><i class="fa fa-facebook-square" aria-hidden="true"></i> Friend Finder</h1>
+            <h1 id="main-logo"><b class="facebook-head">f</b>riend <b class="facebook-head">f</b>inder</h1>
             <hr>
-            <h2>Answer a few basic questions. </h2>
-            <h2>Then find the friend with the greatest compatibility!</h2>
+            <h2>Click on the Survey link above. </h2>
+            <h2>Answer all of the Questions.</h2>
+            <h2>Find a friend with the Greatest Compatibility!</h2>
             <br>
 
-            <div>
-                <a href="/survey"><button type="button" class="btn btn-lg btn-primary">
-                        <h4><span class="glyphicon glyphicon-list-alt"></span> Go to Survey</h4>
-                    </button></a>
-            </div>
+            
 
         </div>
 
-        <footer class="footer">
-            <div class="container">
-                <p><a href="/api/friends">API Friends List</a> | <a
-                        href="https://github.com/afhaque/friendfinder">GitHub Repo</a></p>
-            </div>
-        </footer>
+        
 
     </div>
 
