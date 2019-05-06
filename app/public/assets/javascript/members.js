@@ -1,10 +1,12 @@
+// This displays the current friends that have been added to the array of objects
+
 $(document).ready(function () {
 
 
 
     function displayMemb() {
                 
-        $.ajax({
+        $.ajax({  // Makes the API call to get the friends json data
             url: "/api/friends",
             method: "GET"
         })
@@ -13,7 +15,8 @@ $(document).ready(function () {
                 
                 console.log(friends);
 
-                for (var i = 0; i < friends.length; i++) {
+                // Reverse for loop to display the newest friend first
+                for (var i = friends.length - 1; i >= 0; i--) {
                     var brk = $("<br>");
                     var imageDiv = $("<div>");
                     var pName = $("<p>").html("<b>Name: </b>" + friends[i].name);
